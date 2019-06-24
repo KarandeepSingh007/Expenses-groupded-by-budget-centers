@@ -1,0 +1,30 @@
+{
+   "expenses": [
+      {
+          "expenseId":"123",
+         "expenseName":"salaries",
+         "budgetCenter":"102192",
+         "category":"Personnel",
+         "subService":"HR",
+         "uncommittedType":"BAC",
+         "probability":"1",
+         "yearType":"CURRENT",
+         "expected":"121323",
+         "actual":"33111",
+         "notes":"invoice #2123"
+      },
+      { 
+          "expenseId":"124",
+         "expenseName":"open headcount finance",
+         "budgetCenter":"102192",
+         "category":"Personnel",
+         "subService":"HR",
+         "uncommittedType":"BAC",
+         "probability":"1",
+         "yearType":"CURRENT",
+         "expected":"121323",
+         "actual":"33111",
+         "notes":"invoice #2123"
+      }
+   ]
+}
